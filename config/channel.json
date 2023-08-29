@@ -1,0 +1,152 @@
+{
+  "news": {
+    "channelid": "0001",
+    "label": "新闻",
+    "value": "news"
+  }, 
+  "ent": {
+    "channelid": "0003",
+    "label": "娱乐",
+    "value": "ent"
+  }, 
+  "sports": {
+    "channelid": "0005",
+    "label": "体育",
+    "value": "sports"
+  }, 
+  "travel": {
+    "channelid": "0006",
+    "label": "旅游",
+    "value": "travel"
+  }, 
+  "house": {
+    "channelid": "0007",
+    "label": "自营房产",
+    "value": "house"
+  }, 
+  "auto": {
+    "channelid": "0008",
+    "label": "汽车",
+    "value": "auto"
+  }, 
+  "tech": {
+    "channelid": "0009",
+    "label": "科技",
+    "value": "tech"
+  }, 
+  "home": {
+    "channelid": "0010",
+    "label": "家居",
+    "value": "home"
+  }, 
+  "mobile": {
+    "channelid": "0011",
+    "label": "手机",
+    "value": "mobile"
+  }, 
+  "blog": {
+    "channelid": "0012",
+    "label": "博客",
+    "value": "blog"
+  }, 
+  "bbs": {
+    "channelid": "0015",
+    "label": "论坛",
+    "value": "bbs"
+  }, 
+  "digi": {
+    "channelid": "0016",
+    "label": "数码",
+    "value": "digi"
+  }, 
+  "gov": {
+    "channelid": "0023",
+    "label": "政务",
+    "value": "gov"
+  }, 
+  "money": {
+    "channelid": "0025",
+    "label": "财经",
+    "value": "money"
+  }, 
+  "lady": {
+    "channelid": "0026",
+    "label": "女人",
+    "value": "lady"
+  }, 
+  "edu": {
+    "channelid": "0029",
+    "label": "教育",
+    "value": "edu"
+  }, 
+  "tie": {
+    "channelid": "0030",
+    "label": "跟贴",
+    "value": "tie"
+  }, 
+  "play": {
+    "channelid": "0031",
+    "label": "游戏",
+    "value": "play"
+  }, 
+  "baby": {
+    "channelid": "0036",
+    "label": "亲子",
+    "value": "baby"
+  }, 
+  "vhouse": {
+    "channelid": "0037",
+    "label": "中产",
+    "value": "vhouse"
+  }, 
+  "health": {
+    "channelid": "0038",
+    "label": "健康",
+    "value": "health"
+  }, 
+  "shoucang": {
+    "channelid": "0041",
+    "label": "收藏",
+    "value": "shoucang"
+  }, 
+  "pet": {
+    "channelid": "0042",
+    "label": "宠物",
+    "value": "pet"
+  }, 
+  "media": {
+    "channelid": "0076",
+    "label": "传媒",
+    "value": "media"
+  }, 
+  "jiu": {
+    "channelid": "0082",
+    "label": "酒",
+    "value": "jiu"
+  }, 
+  "video": {
+    "channelid": "0085",
+    "label": "视频",
+    "value": "video"
+  }, 
+  "daxue": {
+    "channelid": "0091",
+    "label": "校园",
+    "value": "daxue"
+  }, 
+  "gongyi": {
+    "channelid": "0093",
+    "label": "公益",
+    "value": "gongyi"
+  }, 
+  "men": {
+    "channelid": "0095",
+    "label": "君子",
+    "value": "men"
+  }, 
+  "foxue": {
+    "channelid": "0324",
+    "label": "佛学",
+    "value": "foxue"
+  }
+}
