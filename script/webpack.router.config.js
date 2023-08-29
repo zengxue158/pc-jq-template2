@@ -23,6 +23,7 @@ let entry = {}
 let plugins = []
 pages.forEach(item => {
   entry[item] = path.join(__dirname, `../src/pages/${item}/index.js`)
+  const index = pages.indexOf(item);
   const excludeChunks = pages.slice(0);
   excludeChunks.splice(index, 1);
   plugins.push(

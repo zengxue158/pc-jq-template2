@@ -9,9 +9,9 @@
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --mode development --open --config ./script/webpack.dev.config.js",
     "build": "cross-env NODE_ENV=production webpack --mode production --config ./script/webpack.prod.config.js",
-    "upload": "npm run initopenid && node ./script/upload.js",
-    "publish": "npm run initopenid && node ./script/publish.js",
-    "commit": "git add . && git reset -- openID.json&& git commit -m 'commit_by_script'&&git push origin HEAD",
+    "upload": "node ./script/upload.js",
+    "publish": "node ./script/publish.js",
+    "commit": "git add . && git commit -m 'commit_by_script'&&git push origin HEAD",
     "submit": "npm run build && npm run upload && npm run publish && npm run commit"
   },
   "author": "",

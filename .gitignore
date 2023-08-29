@@ -1,0 +1,24 @@
+.DS_Store
+node_modules/
+dist/
+.ftppass
+README-hz.md
+README-github.md
+openID.json
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
